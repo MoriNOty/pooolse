@@ -27,7 +27,3 @@
 ## Rátkai Molnár Csongor
 - [Facebook](https://www.facebook.com/iamcsocsooo)
 - [LinkedIn](https://www.linkedin.com/in/csongorratkaimolnar)
-
-## Detti Vajtó
-- [Facebook](https://www.facebook.com/vajto.detti)
-- [LinkedIn](https://www.linkedin.com/in/dettivajto)
