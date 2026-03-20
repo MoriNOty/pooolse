@@ -4,3 +4,5 @@
 [Addresses](https://github.com/MoriNOty/pooolse/blob/main/addresses.md)
 
 [Web Archives](https://github.com/MoriNOty/pooolse/blob/main/web-archives.md)
+
+[Documents](https://github.com/MoriNOty/pooolse/tree/main/docs)
