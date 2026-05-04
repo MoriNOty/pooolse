@@ -28,6 +28,6 @@
 - [Facebook](https://www.facebook.com/iamcsocsooo)
 - [LinkedIn](https://www.linkedin.com/in/csongorratkaimolnar)
 
-  ## Vida Miklós
+## Vida Miklós
 - [Facebook](https://www.facebook.com/DrVidaMiklosHVLEGAL)
 - [LinkedIn](https://www.linkedin.com/in/mikl%C3%B3s-vida-725bb785/)
