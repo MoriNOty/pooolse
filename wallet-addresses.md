@@ -1,10 +1,12 @@
 ### Aura
 Hacked DEX: [9n4vWsPAPDS99UWG954wir8xv7zt7hYkLvxjary1aDXw](https://solscan.io/account/9n4vWsPAPDS99UWG954wir8xv7zt7hYkLvxjary1aDXw)
+aurabotcontract.sol: [EDjghonN66F1CPwDNtFoatWKJPsEWzsjTrM7QgVcHeSw](https://solscan.io/account/EDjghonN66F1CPwDNtFoatWKJPsEWzsjTrM7QgVcHeSw)
 
 ### Pooolse Solana
 Withdraw: [8MZACEm2ZMYkcF15A58dK3yoAcCvuLpXC5Q9e6suyUGq](https://solscan.io/account/8MZACEm2ZMYkcF15A58dK3yoAcCvuLpXC5Q9e6suyUGq)
 
 Withdraw supplier: [ArEg8i3aQy9SjLu43j241JHY1fR3Fuc5MYUcu97HjNsz](https://solscan.io/account/ArEg8i3aQy9SjLu43j241JHY1fR3Fuc5MYUcu97HjNsz)
+Supplier Genesis: [7tyUWt2JiDTQTWJZ5iZM6XYBWwV544Ba3UoRy2cwUCqP](https://solscan.io/account/7tyUWt2JiDTQTWJZ5iZM6XYBWwV544Ba3UoRy2cwUCqP)
 
 ### Pooolse BNB
 Deposit Factory: [0x22d7858d3b12d6f84ccfe7dd22e5c64ab5144bd1](https://bscscan.com/address/0x22d7858d3b12d6f84ccfe7dd22e5c64ab5144bd1)
