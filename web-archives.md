@@ -31,3 +31,6 @@
 
 ## Other
 - [CryptoMillionaireClub](https://web.archive.org/web/20230401000000*/https://cryptomillionaireclub.io/)
+- [King IT Solutions](https://web.archive.org/web/20260000000000*/www.kingitsolutions.net)
+- [Planet of the Apps](https://web.archive.org/web/20260000000000*/planetoftheapps.hu)
+- [Heaven Properties](https://web.archive.org/web/20260000000000*/heavenproperties.com)
