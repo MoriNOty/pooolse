@@ -14,9 +14,6 @@
 ## Attila B. Nagy
 - [Facebook](https://www.facebook.com/attila.b.nagy.7)
 
-## Konkoly-BNagy Réka
-- [Facebook](https://www.facebook.com/reka.bnagy)
-
 ## Papp Tamás
 - [Facebook](https://www.facebook.com/papp.tamas.336)
 
