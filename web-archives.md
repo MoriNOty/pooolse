@@ -9,6 +9,7 @@
 - [Pooolse](https://web.archive.org/web/20250915000000*/https://pooolse.com/)
 - [App Pooolse](https://web.archive.org/web/20250915000000*/https://app.pooolse.com/)
 - [Tripppler](https://web.archive.org/web/20250915000000*/https://tripppler.com/)
+- [tracxn.com/d/companies/tripppler](https://web.archive.org/web/20260000000000*/https://tracxn.com/d/companies/tripppler/__d6Z5kyRKb_mabn-uiCrG5af_N0ZvDjMEe7dQXJyJB6o)
 - [Pooolse Gitbook](https://web.archive.org/web/20250915000000*/https://pooolse-ecosystem.gitbook.io/aura-dex)
 
 ## Related Projects
